@@ -408,69 +408,6 @@ function resetCalculator() {
   </div>
   
   
-  
-  
-  
-  
-  
-  <h3> Repairs </h3>
-  
-  <div>
-    <input type="checkbox" id="ColinChoice" value="1400"><!--The price is the value, change that and then the name and itll change on the menu-->
-    <label for="ColinChoice">Standard Repair (D-S Class) - 1,400$</label>
-    <input type="number" value="1" min="1">
-  </div>
-  
-  <div style="margin-bottom: 10px;"></div>
-
-  <h3>Misc.</h3>
-
-<div>
-  <input type="checkbox" id="MysteryGift" value="325" >
-  <label for="MysteryBox">Single Lockpick - $325</label>
-  <input type="number" value="1" min="1">
-</div>
-
-<div>
-  <input type="checkbox" id="MysteryGift" value="1500" >
-  <label for="MysteryBox">Adavanced Lockpick - $1500</label>
-  <input type="number" value="1" min="1">
-</div>
-
-<div>
-  <input type="checkbox" id="MysteryGift" value="350" >
-  <label for="MysteryBox">Basic Repair Kit - $350</label>
-  <input type="number" value="1" min="1">
-</div>
-
-<div>
-  <input type="checkbox" id="MysteryGift" value="1000" >
-  <label for="MysteryBox">Advanced Repair Kit(Free for Leo) - $1000</label>
-  <input type="number" value="1" min="1">
-</div>
-
-<div>
-  <input type="checkbox" id="MysteryGift" value="500" >
-  <label for="MysteryBox">Cleaning Kit - $500</label>
-  <input type="number" value="1" min="1">
-</div>
-
-<div>
-  <input type="checkbox" id="MysteryGift" value="1000" >
-  <label for="MysteryBox">Car Polish(1-2 days) - $1000</label>
-  <input type="number" value="1" min="1">
-  
-  <div>
-  <input type="checkbox" id="MysteryGift" value="2000" >
-  <label for="MysteryBox">Fantastic Wax (3-4 days)</label>
-  <input type="number" value="1" min="1">
-</div>
-
-</div>
-
-<div style="margin-bottom: 100px;"></div>
-
-  
     
   
 
@@ -496,25 +433,14 @@ function resetCalculator() {
   <input type="number" value="1" min="1" max="1">
 </div>
 
-<h3> Towing </h3>
+<h3> Delivery </h3>
   
   <div>
-    <input type="checkbox" id="ColinChoice" value="300"><!--The price is the value, change that and then the name and itll change on the menu-->
-    <label for="ColinChoice">Los Santos - 300$</label>
+    <input type="checkbox" id="ColinChoice" value="1000"><!--The price is the value, change that and then the name and itll change on the menu-->
+    <label for="ColinChoice">Delivery Fee - 1000$</label>
     <input type="number" value="1" min="1">
   </div>
   
-  <div>
-    <input type="checkbox" id="JudysChoice" value="700">
-    <label for="JudysChoice">Sandy - 700$    $</label>
-    <input type="number" value="1" min="1">
-  </div>
-  
-  <div>
-    <input type="checkbox" id="JudysChoice" value="1000">
-    <label for="JudysChoice">Paleto - 1000$    $</label>
-    <input type="number" value="1" min="1">
-  </div>
 
   
   <div style="margin-bottom: 25px;"></div>
