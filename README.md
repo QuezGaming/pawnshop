@@ -110,7 +110,7 @@
     totalElement.textContent = total.toFixed(2);
 
     var discountTotalElement = document.getElementById('discount-total');
-    var discount = total * 0.05;
+    var discount = total * 0.10;
     discountTotalElement.textContent = discount.toFixed(2);
   }
 
@@ -432,6 +432,14 @@ function resetCalculator() {
   <label for="50off">Mechs - 25% off</label>
   <input type="number" value="1" min="1" max="1">
 </div>
+
+  <h3>Mystery Gifts</h3>
+  
+  <div>
+    <input type="checkbox" id="Davechoice" value="3000$">
+    <label for="Davechoice">Mystery Gift - 3000$</label>
+    <input type="number" value="1" min="1">
+  </div>
 
 <h3> Delivery </h3>
   
