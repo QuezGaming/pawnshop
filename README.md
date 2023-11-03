@@ -228,94 +228,165 @@ function resetCalculator() {
 
   <div style="margin-bottom: 10px;"></div>
   
-  <h3>Engine Upgrades</h3>
+  <h3>Food</h3>
 
   <div style="margin-bottom: 10px;"></div>
   
   <div>
-    <input type="checkbox" id="uwueats" value="1000$">
-    <label for="Velmachoice">Engine Tier 1 - 1000$</label>
+    <input type="checkbox" id="uwueats" value="150$">
+    <label for="Velmachoice">Salad - 150$</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="3000$">
-    <label for="Davechoice">Engine Tier 2 - 3000$</label>
+    <input type="checkbox" id="Davechoice" value="200$">
+    <label for="Davechoice">Fruit Explosion - 200$</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="8000$">
-    <label for="Davechoice">Engine Tier 3 - 8000$</label>
+    <input type="checkbox" id="Davechoice" value="150$">
+    <label for="Davechoice">Turkey Sandwich - 150$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+  <div>
+    <input type="checkbox" id="Davechoice" value="150$">
+    <label for="Davechoice">Beef Sandwich - 150$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+  <div>
+    <input type="checkbox" id="Davechoice" value="150$">
+    <label for="Davechoice">BLT Sandwich - 150$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+  <div>
+    <input type="checkbox" id="Davechoice" value="175$">
+    <label for="Davechoice">Chocolate Pancakes - 175$</label>
     <input type="number" value="1" min="1">
   </div>
   
-    <h3>Suspension Upgrades</h3>
+    <h3>Beverage</h3>
 
   <div style="margin-bottom: 10px;"></div>
   
   <div>
-    <input type="checkbox" id="uwueats" value="1000$">
-    <label for="Velmachoice">Suspension Tier 1 - 1000$</label>
+    <input type="checkbox" id="uwueats" value="200$">
+    <label for="Velmachoice">Fresh Lemonade - 200$</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="3000$">
-    <label for="Davechoice">Suspension Tier 2 - 3000$</label>
+    <input type="checkbox" id="Davechoice" value="125$">
+    <label for="Davechoice">Iced Coffee - 125$</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="5000$">
-    <label for="Davechoice">Suspension Tier 3 - 5000$</label>
+    <input type="checkbox" id="Davechoice" value="125$">
+    <label for="Davechoice">Matcha Latte - 125$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+  <div>
+    <input type="checkbox" id="Davechoice" value="125$">
+    <label for="Davechoice">Pumpkin Spice Latte - 125$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+  <div>
+    <input type="checkbox" id="Davechoice" value="200$">
+    <label for="Davechoice">Cat Tuccino - 200$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+  <div>
+    <input type="checkbox" id="Davechoice" value="150$">
+    <label for="Davechoice">Bobba Tea - 150$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+  <div>
+    <input type="checkbox" id="Davechoice" value="125$">
+    <label for="Davechoice">Green Tea - 125$</label>
     <input type="number" value="1" min="1">
   </div>
   
-    <h3>Transmission Upgrades</h3>
+    <h3>Dessert</h3>
 
   <div style="margin-bottom: 10px;"></div>
   
   <div>
-    <input type="checkbox" id="uwueats" value="1000$">
-    <label for="Velmachoice">Transmission Tier 1 - 1000$</label>
+    <input type="checkbox" id="uwueats" value="125$">
+    <label for="Velmachoice">Homemade Cookie - 125$</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="4000$">
-    <label for="Davechoice">Transmission Tier 2 - 4000$</label>
+    <input type="checkbox" id="Davechoice" value="125$">
+    <label for="Davechoice">Apple Crumble - 125$</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="7000$">
-    <label for="Davechoice">Transmission Tier 3 - 7000$</label>
+    <input type="checkbox" id="Davechoice" value="125$">
+    <label for="Davechoice">Cat Donut - 125$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+   <div>
+    <input type="checkbox" id="Davechoice" value="125$">
+    <label for="Davechoice">Cat Cupcake - 125$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+   <div>
+    <input type="checkbox" id="Davechoice" value="125$">
+    <label for="Davechoice">Frozen Yogurt - 125$</label>
     <input type="number" value="1" min="1">
   </div>
   
-    <h3>Brake Upgrades</h3>
+    <h3>Cat Tuccino Specials</h3>
 
   <div style="margin-bottom: 10px;"></div>
   
   <div>
-    <input type="checkbox" id="uwueats" value="1000$">
-    <label for="Velmachoice">Brakes Tier 1 - 1000$</label>
+    <input type="checkbox" id="uwueats" value="1600$">
+    <label for="Velmachoice">10 Cat Tuccinos - 1600$</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="5000$">
-    <label for="Davechoice">Brakes Tier 2 - 5000$</label>
+    <input type="checkbox" id="Davechoice" value="2500$">
+    <label for="Davechoice">20 Cat Tuccinos - 3500$</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="8000$">
-    <label for="Davechoice">Brakes Tier 3 - 8000$</label>
+    <input type="checkbox" id="Davechoice" value="3500$">
+    <label for="Davechoice">30 Cat Tuccinos - 3500$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+  <div>
+    <input type="checkbox" id="Davechoice" value="4500$">
+    <label for="Davechoice">40 Cat Tuccinos - 4500$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+  <div>
+    <input type="checkbox" id="Davechoice" value="5500$">
+    <label for="Davechoice">50 Cat Tuccinos - 5500$</label>
     <input type="number" value="1" min="1">
   </div>
   
+   <div>
+    <input type="checkbox" id="Davechoice" value="9000$">
+    <label for="Davechoice">100 Cat Tuccinos - 9000$</label>
+    <input type="number" value="1" min="1">
+  </div>
   <h3>Turbo</h3>
   
   <div>
