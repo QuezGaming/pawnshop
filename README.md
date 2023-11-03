@@ -472,6 +472,18 @@ function resetCalculator() {
   <input type="number" value="1" min="1" max="1">
 </div>
 
+<div>
+  <input type="checkbox" id="50off" value="-50%">
+  <label for="50off">PD & EMS - 50% off</label>
+  <input type="number" value="1" min="1" max="1">
+</div>
+
+<div>
+  <input type="checkbox" id="50off" value="-50%">
+  <label for="50off">Mechs - 25% off</label>
+  <input type="number" value="1" min="1" max="1">
+</div>
+
 <h3> Towing </h3>
   
   <div>
