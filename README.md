@@ -152,7 +152,7 @@
 
     alert('Order submitted!');
 
-    var discordWebhookURL = 'https://discord.com/api/webhooks/1150577363499884695/q-F7MVW_UPghvq1ZJFfxDoOYF-PHsTH5AtMDOcqsSPc3VoapWEtWycynZAEAQnKUr6v8';
+    var discordWebhookURL = 'https://discordapp.com/api/webhooks/1169867134982180864/Q3tZ3QVIQ_n2ttXcMaAGzvz31AxqquH3x6sYJ1J1QnOW4U-sZpk8xe_uAF6y_vS68rth';
 
     var xhr = new XMLHttpRequest();
     xhr.open('POST', discordWebhookURL, true);
@@ -220,7 +220,7 @@ function resetCalculator() {
 	
 <div style="margin-bottom: 25px;"></div>
  
-<body style="background-color:lightblue;">
+<body style="background-color:pink;">
 	<img src="uwu.png" alt="Company Logo!">
   <h1>Menu Calculator</h1>
   
@@ -505,7 +505,7 @@ function resetCalculator() {
 
 
 <div>
-    <label for="name">Mechanic's Name:</label>
+    <label for="name">Cashier's Name:</label>
     <input type="text" id="name">
   </div>
   
