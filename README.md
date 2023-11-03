@@ -406,6 +406,11 @@ function resetCalculator() {
     <label for="Davechoice">Night Cap Special - 1100$</label>
     <input type="number" value="1" min="1">
   </div>
+    <div>
+    <input type="checkbox" id="Davechoice" value="500$">
+    <label for="Davechoice">Poor Man Special - 500$</label>
+    <input type="number" value="1" min="1">
+  </div>
   
   
     
@@ -468,7 +473,7 @@ function resetCalculator() {
 </div>
 
 <div class="total-box">
-  <span>Commision (5%): $</span>
+  <span>Commision (10%): $</span>
   <span id="discount-total">0.00</span>
 </div>
 
