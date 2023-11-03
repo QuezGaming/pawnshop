@@ -147,7 +147,7 @@
       }
     });
 
-    var commission = (total * 0.05).toFixed(2);
+    var commission = (total * 0.10).toFixed(2);
     var totalWithDiscount = total - discountTotal;
 
     alert('Order submitted!');
@@ -179,7 +179,7 @@
             inline: true
           },
           {
-            name: 'Commission (5%)',
+            name: 'Commission (10%)',
             value: '$' + commission,
             inline: true
           },
@@ -392,6 +392,18 @@ function resetCalculator() {
   <div>
     <input type="checkbox" id="Davechoice" value="2000$">
     <label for="Davechoice">Sweet Tooth Special - 2000$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+  <div>
+    <input type="checkbox" id="Davechoice" value="2700$">
+    <label for="Davechoice">Cozy Feeling Special - 2700$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+  <div>
+    <input type="checkbox" id="Davechoice" value="1100$">
+    <label for="Davechoice">Night Cap Special - 1100$</label>
     <input type="number" value="1" min="1">
   </div>
   
