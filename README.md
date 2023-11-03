@@ -387,11 +387,11 @@ function resetCalculator() {
     <label for="Davechoice">100 Cat Tuccinos - 9000$</label>
     <input type="number" value="1" min="1">
   </div>
-  <h3>Turbo</h3>
+  <h3>Specials</h3>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="12000$">
-    <label for="Davechoice">Turbo - 12000$</label>
+    <input type="checkbox" id="Davechoice" value="2000$">
+    <label for="Davechoice">Sweet Tooth Special - 2000$</label>
     <input type="number" value="1" min="1">
   </div>
   
@@ -504,14 +504,6 @@ function resetCalculator() {
     <input type="number" value="1" min="1">
   </div>
 
-
-<h3>Discounted Repairs</h3>
-  
-  <div>
-    <input type="checkbox" id="uwueats" value="1000$">
-    <label for="Velmachoice">EMS, LEO, DOC, DOJ, UWU & DeathRow A-D - 1000$</label>
-    <input type="number" value="1" min="1">
-  </div>
   
   <div style="margin-bottom: 25px;"></div>
 
