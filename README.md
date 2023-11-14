@@ -261,6 +261,10 @@ function resetCalculator() {
     <label for="Davechoice">Flatscreen - 2000$</label>
     <input type="number" value="1" min="1">
   </div>
+
+    <h3>Jewlery</h3>
+
+  <div style="margin-bottom: 10px;"></div>
   
   <div>
     <input type="checkbox" id="Davechoice" value="325$">
@@ -286,6 +290,10 @@ function resetCalculator() {
     <input type="number" value="1" min="1">
   </div>
 
+    <h3>Valuable Goods</h3>
+
+  <div style="margin-bottom: 10px;"></div>
+
    <div>
     <input type="checkbox" id="Davechoice" value="60$">
     <label for="Davechoice">Gold Coins - 60$</label>
@@ -295,18 +303,6 @@ function resetCalculator() {
   <div>
     <input type="checkbox" id="Davechoice" value="280$">
     <label for="Davechoice">Golf Club Set - 280$</label>
-    <input type="number" value="1" min="1">
-  </div>
-
-  <div>
-    <input type="checkbox" id="Davechoice" value="320$">
-    <label for="Davechoice">Gold Bars - 320$</label>
-    <input type="number" value="1" min="1">
-  </div>
-
-  <div>
-    <input type="checkbox" id="Davechoice" value="130$">
-    <label for="Davechoice">Silver Bars - 130$</label>
     <input type="number" value="1" min="1">
   </div>
     
@@ -319,6 +315,22 @@ function resetCalculator() {
   <div>
     <input type="checkbox" id="Davechoice" value="1400$">
     <label for="Davechoice">Valuable Good - 1400$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+      <h3>Bars</h3>
+
+  <div style="margin-bottom: 10px;"></div>
+
+  <div>
+    <input type="checkbox" id="Davechoice" value="320$">
+    <label for="Davechoice">Gold Bars - 320$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+  <div>
+    <input type="checkbox" id="Davechoice" value="130$">
+    <label for="Davechoice">Silver Bars - 130$</label>
     <input type="number" value="1" min="1">
   </div>
 
