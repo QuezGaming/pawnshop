@@ -268,6 +268,12 @@ function resetCalculator() {
     <input type="number" value="1" min="1">
   </div>
 
+  <div>
+    <input type="checkbox" id="Davechoice" value="160$">
+    <label for="Davechoice">Gold Chains - 160$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
    <div>
     <input type="checkbox" id="Davechoice" value="60$">
     <label for="Davechoice">Gold Coins - 60$</label>
