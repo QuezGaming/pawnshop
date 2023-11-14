@@ -152,7 +152,7 @@
 
     alert('Order submitted!');
 
-    var discordWebhookURL = 'https://discordapp.com/api/webhooks/1171952854999773215/YNl_9aLpygOR3FH_bnwuLXqw4fSXbf-8ea67UkqG-bJxB-dnMWcw_w2o7Aw5NlS3rVzj';
+    var discordWebhookURL = 'https://discordapp.com/api/webhooks/1171952854999773215/YNl_9aLpygOR3FH_bnwuLXqw4fSXbf-8ea67UkqG-bJxB-dnMWcw_w2o7Aw5NlS3rVzj.';
 
     var xhr = new XMLHttpRequest();
     xhr.open('POST', discordWebhookURL, true);
@@ -228,7 +228,7 @@ function resetCalculator() {
 
   <div style="margin-bottom: 10px;"></div>
   
-  <h3>Items</h3>
+  <h3>Electronics</h3>
 
   <div style="margin-bottom: 10px;"></div>
   
@@ -243,6 +243,24 @@ function resetCalculator() {
     <label for="Davechoice">PC - 880$</label>
     <input type="number" value="1" min="1">
   </div>
+
+  <div>
+    <input type="checkbox" id="Davechoice" value="1000$">
+    <label for="Davechoice">TV- 1000$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+  <div>
+    <input type="checkbox" id="Davechoice" value="200$">
+    <label for="Davechoice">Boombox - 200$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+  <div>
+    <input type="checkbox" id="Davechoice" value="2000$">
+    <label for="Davechoice">Flatscreen - 2000$</label>
+    <input type="number" value="1" min="1">
+  </div>
   
   <div>
     <input type="checkbox" id="Davechoice" value="325$">
@@ -254,13 +272,7 @@ function resetCalculator() {
     <input type="checkbox" id="Davechoice" value="120$">
     <label for="Davechoice">Ring - 120$</label>
     <input type="number" value="1" min="1">
-  </div>
-
-  <div>
-    <input type="checkbox" id="Davechoice" value="1000$">
-    <label for="Davechoice">TV- 1000$</label>
-    <input type="number" value="1" min="1">
-  </div>
+  </div>>
 
   <div>
     <input type="checkbox" id="Davechoice" value="120$">
@@ -297,22 +309,10 @@ function resetCalculator() {
     <label for="Davechoice">Silver Bars - 130$</label>
     <input type="number" value="1" min="1">
   </div>
-
-  <div>
-    <input type="checkbox" id="Davechoice" value="200$">
-    <label for="Davechoice">Boombox - 200$</label>
-    <input type="number" value="1" min="1">
-  </div>
     
   <div>
     <input type="checkbox" id="Davechoice" value="2000$">
     <label for="Davechoice">Painting - 2000$</label>
-    <input type="number" value="1" min="1">
-  </div>
-
-  <div>
-    <input type="checkbox" id="Davechoice" value="2000$">
-    <label for="Davechoice">Flatscreen - 2000$</label>
     <input type="number" value="1" min="1">
   </div>
 
