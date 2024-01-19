@@ -233,20 +233,20 @@ function resetCalculator() {
   <div style="margin-bottom: 10px;"></div>
   
   <div>
-    <input type="checkbox" id="uwueats" value="275$">
-    <label for="Velmachoice">Microwave - 275$</label>
+    <input type="checkbox" id="uwueats" value="950$">
+    <label for="Velmachoice">Microwave - 950$</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="880$">
-    <label for="Davechoice">PC - 880$</label>
+    <input type="checkbox" id="Davechoice" value="950$">
+    <label for="Davechoice">PC - 950$</label>
     <input type="number" value="1" min="1">
   </div>
 
   <div>
-    <input type="checkbox" id="Davechoice" value="1000$">
-    <label for="Davechoice">TV- 1000$</label>
+    <input type="checkbox" id="Davechoice" value="1200$">
+    <label for="Davechoice">TV- 1200$</label>
     <input type="number" value="1" min="1">
   </div>
 
@@ -267,32 +267,32 @@ function resetCalculator() {
   <div style="margin-bottom: 10px;"></div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="325$">
-    <label for="Davechoice">Rolex - 325$</label>
+    <input type="checkbox" id="Davechoice" value="400$">
+    <label for="Davechoice">Rolex - 400$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+  <div>
+    <input type="checkbox" id="Davechoice" value="170$">
+    <label for="Davechoice">Gold Watch - 170$</label>
     <input type="number" value="1" min="1">
   </div>
 
   <div>
     <input type="checkbox" id="Davechoice" value="130$">
-    <label for="Davechoice">Gold Watch - 130$</label>
+    <label for="Davechoice">Ring - 130$</label>
     <input type="number" value="1" min="1">
   </div>
 
   <div>
-    <input type="checkbox" id="Davechoice" value="120$">
-    <label for="Davechoice">Ring - 120$</label>
+    <input type="checkbox" id="Davechoice" value="130$">
+    <label for="Davechoice">Gold Earrings - 130$</label>
     <input type="number" value="1" min="1">
   </div>
 
   <div>
-    <input type="checkbox" id="Davechoice" value="120$">
-    <label for="Davechoice">Gold Earrings - 120$</label>
-    <input type="number" value="1" min="1">
-  </div>
-
-  <div>
-    <input type="checkbox" id="Davechoice" value="160$">
-    <label for="Davechoice">Gold Chains - 160$</label>
+    <input type="checkbox" id="Davechoice" value="170$">
+    <label for="Davechoice">Gold Chains - 170$</label>
     <input type="number" value="1" min="1">
   </div>
 
@@ -301,8 +301,8 @@ function resetCalculator() {
   <div style="margin-bottom: 10px;"></div>
 
    <div>
-    <input type="checkbox" id="Davechoice" value="60$">
-    <label for="Davechoice">Gold Coins - 60$</label>
+    <input type="checkbox" id="Davechoice" value="70$">
+    <label for="Davechoice">Gold Coins - 70$</label>
     <input type="number" value="1" min="1">
   </div>
 
@@ -329,14 +329,14 @@ function resetCalculator() {
   <div style="margin-bottom: 10px;"></div>
 
   <div>
-    <input type="checkbox" id="Davechoice" value="320$">
-    <label for="Davechoice">Gold Bars - 320$</label>
+    <input type="checkbox" id="Davechoice" value="350$">
+    <label for="Davechoice">Gold Bars - 350$</label>
     <input type="number" value="1" min="1">
   </div>
 
   <div>
-    <input type="checkbox" id="Davechoice" value="130$">
-    <label for="Davechoice">Silver Bars - 130$</label>
+    <input type="checkbox" id="Davechoice" value="150$">
+    <label for="Davechoice">Silver Bars - 150$</label>
     <input type="number" value="1" min="1">
   </div>
 
